@@ -1,18 +1,29 @@
-#include <stdio.h>
-int main(){
+#include<stdio.h> // include stdio.h
+
+int main() 
+{
     int n;
-    printf("Enter Number for Pattern:\n");
-    scanf("%d",&n);
-    for(int i=1; i<=n;i++)
-    { 
-        for(int j=1; j<=n;j++)
+
+    printf("Enter number of lines:\n ");
+    scanf("%d", &n);
+
+    // loop for line number of lines
+    for(int row = 1; row <= n; row++)
+    {   
+        // loop to print leading spaces in each line
+        for(int space = 0; space <= n - row; space++)
         {
-        printf("");
+            printf("   ");
         }
-        n--;
-        
-        printf("*");
-        
+
+        // loop to print *
+        for(int col = 1; col <= row * 2 - 1; col++)
+        {
+            printf(" * ");
+        }               
+
+        printf("\n");
     }
+
     return 0;
 }
