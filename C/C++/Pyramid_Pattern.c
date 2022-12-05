@@ -4,7 +4,7 @@ int main()
 {
     int n;
 
-    printf("Enter number of lines:\n ");
+    printf("Enter number of lines:\n");
     scanf("%d", &n);
 
     // loop for line number of lines
@@ -13,7 +13,7 @@ int main()
         // loop to print leading spaces in each line
         for(int space = 0; space <= n - row; space++)
         {
-            printf("   ");
+            printf("---"); // given 3 space given from left
         }
 
         // loop to print *
