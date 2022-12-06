@@ -1,7 +1,6 @@
-number = 10
-
-# check if number is greater than 0
-if number > 0:
-    print('Number is positive.')
-
-print('The if statement is easy')
+x = int(1)
+y = int(2.8)
+z = int("354")
+print(x)
+print(y)
+print(z)
