@@ -5,11 +5,11 @@
 
 int main() 
 {
-	
-    char s[100];
-    scanf("%[^b]%*c", &s);
-    //%[^b] is encounter b it is used for taking multiple word
-    //if i enter ayanbraza it only print ayan
-  	printf("Hello, World!\n%s",s);  
+
+char ch,s[100],sen[100];
+scanf("%c", &ch);
+scanf("%s",s);
+scanf("%[^\n]s",sen);
+printf("%c\n%s\n%s",ch,s,sen);   
     return 0;
 }

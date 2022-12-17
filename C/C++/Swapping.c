@@ -24,5 +24,5 @@ void swap_with_3_variables()
 temp=a;
 a=b;
 b=temp;
-printf("a:%d\n b:%d\n temp:%d",a,b,temp);
+printf("a:%d\nb:%d\ntemp:%d",a,b,temp);
 }
