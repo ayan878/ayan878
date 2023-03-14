@@ -1,4 +1,4 @@
-![logo](https://github.com/ayan878/ayan878/blob/master/banner.jpeg)
+![logo](https://github.com/ayan878/ayan878/blob/master/gallery.gif)
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
