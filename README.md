@@ -1,4 +1,4 @@
-![logo](https://www.linkedin.com/in/ayan-raza-1a3a09162/overlay/background-image/)
+![logo](https://github.com/ayan878/ayan878/blob/master/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
