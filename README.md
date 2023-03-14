@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://www.linkedin.com/in/ayan-raza-1a3a09162/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
