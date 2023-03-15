@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="100%" src="https://github.com/ayan878/ayan878/blob/master/gallery.gif">
+<img align="right" alt="coding" width="100%" src="https://github.com/ayan878/ayan878/blob/master/gallery(1).gif">
 <h1 align="center">Hi 👋, I'm Ayan Raza</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
