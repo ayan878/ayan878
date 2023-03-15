@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Webster](https://github.com/ayan878/Web-Project)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django,Saas**
 
 - 👯 I’m looking to collaborate on [Webster](https://github.com/ayan878/Web-Project)
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [ayanraza.blogspot.com](ayanraza.blogspot.com)
 
-- 💬 Ask me about **react,vue and Java**
+- 💬 Ask me about **Java,C and Pyhton**
 
 - 📫 How to reach me **ayanraza197@gmail.com**
 
