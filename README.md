@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan878&label=Profile%20views&color=0e75b6&style=flat" alt="ayan878" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayan878" alt="ayan878" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayan878" alt="ayan878" /></a> </p> -->
 <img align="right" width="350px" height="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="ayan878" />
 <p align="left"> <a href="https://twitter.com/ayan878_ayan" target="blank"><img src="https://img.shields.io/twitter/follow/ayan878_ayan?logo=twitter&style=for-the-badge" alt="ayan878_ayan" /></a> </p>
 
