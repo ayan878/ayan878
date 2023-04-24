@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Webster](https://github.com/ayan878/Web-Project)
 
-- 🌱 I’m currently learning **MongoDB,React and Figma** 
+- 🌱 I’m currently learning **MongoDB, React and Figma** on Skibble.tech 
 
 - 👯 I’m looking to collaborate on [Webster](https://github.com/ayan878/Web-Project)
 
