@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [ayanraza.blogspot.com](ayanraza.blogspot.com)
 
-- 💬 Ask me about **Java,C and Pyhton**
+- 💬 Ask me about **Java, JavaScript, HTML, CSS, React and MySql**
 
 - 📫 How to reach me **ayanraza197@gmail.com**
 
