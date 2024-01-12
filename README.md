@@ -52,4 +52,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayan878&show_icons=true&locale=en" alt="ayan878" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan878&" alt="ayan878" /></p>
-_
+
+## Languages and Tools:
+
+- **Java** [![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+- **JavaScript** [![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript-logo-1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Python** [![Python Icon](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+- **HTML** [![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **CSS** [![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- **Tailwind CSS** [![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwind-css.png)](https://tailwindcss.com/)
+- **MySQL** [![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
+- **Node.js** [![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+- **Data Structures** [![Data Structures Icon](https://img.icons8.com/color/48/000000/hierarchical-structure.png)](https://en.wikipedia.org/wiki/Data_structure)
+- **Object-Oriented Programming (OOP)** [![OOP Icon](https://img.icons8.com/color/48/000000/class.png)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- **React** [![React Icon](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
