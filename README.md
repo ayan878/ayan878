@@ -22,7 +22,9 @@
 
 - 📫 How to reach me **ayanraza197@gmail.com**
 
-- 📄 Know about my experiences [Ayan CV.pdf](Ayan CV.pdf)
+- 📄 Know about my experiences
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ayan878/ayan878/blob/master/22132140035-AYAN%20RAZA-MCA.pdf)
 
 <!-- Add this section below your existing content -->
 
