@@ -14,7 +14,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Webster](https://github.com/ayan878/Web-Project) -->
 
-- 🤝 I’m looking for help with [Webster](https://github.com/ayan878/Web-Project)
+<!-- - 🤝 I’m looking for help with [Webster](https://github.com/ayan878/Web-Project) -->
 
 - 📝 I regularly write articles on [ayanraza.blogspot.com](ayanraza.blogspot.com)
 
