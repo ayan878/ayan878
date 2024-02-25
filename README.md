@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="100%" src="https://github.com/ayan878/ayan878/blob/master/gallery%20(2).gif">
 <h1 align="center">Hi 👋, I'm Ayan Raza</h1>
-<h3 align="center">A passionate Cloud Engineer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan878&label=Profile%20views&color=0e75b6&style=flat" alt="ayan878" /> </p>
 
@@ -35,7 +35,8 @@
   <a href="https://linkedin.com/in/ayan878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan878" height="30" width="40" /></a>
   <a href="https://fb.com/ayan878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayan878" height="30" width="40" /></a>
   <a href="https://instagram.com/justajoo_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justajoo_ar" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/islahtv1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="islahtv1289" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/islahtv1289" target="blank"><img align="center" src
+="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="islahtv1289" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/ayan878" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayan878" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/ayan878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan878" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ayan878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan878"
